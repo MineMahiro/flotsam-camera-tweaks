@@ -1,0 +1,27 @@
+{
+  "game_dir": "",
+  "main_camera": {
+    "pitch_min_degrees": 27.5,
+    "pitch_max_degrees": 61.25,
+    "zoom_min_distance": 15.0,
+    "zoom_max_distance_mouse": 130.0,
+    "zoom_max_distance_joystick": 100.0,
+    "zoom_speed_mouse": 7.5,
+    "zoom_speed_joystick": 1.0,
+    "switch_wait_seconds": 0.75,
+    "pan_speed": 200.0,
+    "rotate_step_degrees": 8.75,
+    "rotate_smoothness": 0.75
+  },
+  "map_camera": {
+    "zoom_min_distance": 500.0,
+    "zoom_max_distance": 1500.0,
+    "default_zoom": 0.3,
+    "zoom_speed_mouse": 10.0,
+    "zoom_speed_joystick": 5.0,
+    "switch_wait_seconds": 1.0,
+    "fade_seconds": 0.5,
+    "pan_speed_min": 200,
+    "pan_speed_max": 1000
+  }
+}

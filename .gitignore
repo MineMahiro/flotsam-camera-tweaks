@@ -1,0 +1,5 @@
+backup/
+_test/
+*.zip
+*.tmp
+_t/
